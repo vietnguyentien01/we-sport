@@ -1,0 +1,54 @@
+{
+    "headers": [
+        "ID",
+        "Tên giải",
+        "Địa chỉ",
+        "Phần thưởng",
+        "Thời gian",
+        "Facebook fanpage URL",
+        "Số điện thoại",
+        "Số đội tối đa"
+    ],
+    "rows": [
+      [    
+        "#01",
+        "Team up",
+        "K19 - Kinh Dương Vương",
+        "2 triệu",
+        "06/12/2021",
+        "We - support",
+        "0123456789",
+        "We - support"
+      ],
+      [    
+        "#02",
+        "Laliga cup",
+        "K23 - Bà Triệu",
+        "2,5 triệu",
+        "18/12/2021",
+        "We - support",
+        "0978411818",
+        "We - support"
+      ],
+      [    
+        "#03",
+        "Levelled up",
+        "Đương Phạm Như Xương",
+        "3 triệu",
+        "22/12/2021",
+        "We - support",
+        "0923458979",
+        "We - support"
+      ],
+      [    
+        "#04",
+        "Từ thiện",
+        "14 Hải Phòng",
+        "3,2 triệu",
+        "24/12/2021",
+        "We - support",
+        "0973624555",
+        "We - support"
+      ]
+    ]
+}

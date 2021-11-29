@@ -1,0 +1,54 @@
+{
+     "headerInfo": [
+        "ID",
+        "Tên sân",
+        "Giá",
+        "Số người tối đa",
+        "Số người hiện tại",
+        "Địa chỉ",
+        "Thời gian thuê",
+        "ID người cho thuê"
+    ],
+    "rowInfo": [
+      [    
+        "#01",
+        "Sân đại học thể dục thể thao",
+        "200k/1h ",
+        "14",
+        "14",
+        "K19 Phạm Như Xương",
+        "17h30 - 19h30",
+        "#abc"
+      ],
+      [    
+        "#02",
+        "Sân Tiên Sơn",
+        "200k/1h ",
+        "14",
+        "14",
+        "K19 Phạm Như Xương",
+        "17h30 - 19h30",
+        "#abc"
+      ],
+      [    
+        "#03",
+        "Sân đại học bách khoa",
+        "200k/1h ",
+        "14",
+        "14",
+        "K19 Phạm Như Xương",
+        "17h30 - 19h30",
+        "#abc"
+      ],
+      [    
+        "#04",
+        "Sân đại học sư phạm",
+        "200k/1h ",
+        "14",
+        "14",
+        "K19 Phạm Như Xương",
+        "17h30 - 19h30",
+        "#abc"
+      ]
+    ]
+}

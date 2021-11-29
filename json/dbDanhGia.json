@@ -1,0 +1,29 @@
+{
+    "headerRate": [
+        "ID",
+        "Nội dung đánh giá",
+        "Tích cực"
+    ],
+    "rowRate": [
+        [
+           "#01",
+           "Sân rất đẹp, Dịch vụ tốt", 
+           "4.5/5"
+        ],
+         [
+           "#02",
+           "Sân rất đẹp", 
+           "4.2/5"
+        ],
+         [
+           "#03",
+           "Sân rất đẹp, Dịch vụ tốt", 
+           "4.7/5"
+        ],
+         [
+           "#04",
+           "Sân rất đẹp", 
+           "4.9/5"
+        ]
+    ]
+}

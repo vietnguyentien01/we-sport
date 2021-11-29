@@ -1,0 +1,44 @@
+{
+    "headersOwner": [
+        "ID",
+        "Tên",
+        "Số điện thoại",
+        "Email",
+        "Facebook URL",
+        "ID người thuê"
+    ],
+    "rowOwner": [
+        [
+        "#01",
+        "Nguyễn Văn A",
+        "0123456789",
+        "vanA@gmail.com",
+        "https://www.facebook.com",
+        "abc"
+        ],
+        [
+        "#02",
+        "Nguyễn Văn B",
+        "0123456789",
+        "vanB@gmail.com",
+        "https://www.facebook.com",
+        "abc"
+        ],
+        [
+        "#03",
+        "Nguyễn Văn C",
+        "0123456789",
+        "vanC@gmail.com",
+        "https://www.facebook.com",
+        "abc"
+        ],
+        [
+        "#04",
+        "Nguyễn Văn D",
+        "0123456789",
+        "vanD@gmail.com",
+        "https://www.facebook.com",
+        "abc"
+        ]
+    ]
+}

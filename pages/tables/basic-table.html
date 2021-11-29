@@ -88,12 +88,6 @@
               <span class="menu-title">Danh sách tài khoản</span>
             </a>
           </li>
-          <!-- <li class="nav-item">
-                      <a class="nav-link" href="documentation/documentation.html">
-                        <i class="mdi mdi-file-document-box-outline menu-icon"></i>
-                        <span class="menu-title">Documentation</span>
-                      </a>
-                    </li> -->
         </ul>
       </nav>
       <!-- partial -->
@@ -105,51 +99,9 @@
                 <div class="card-body">
                   <p class="card-title">Danh sách người thuê</p>
                   <div class="table-responsive">
-                    <table id="recent-purchases-listing" class="table">
-                      <thead>
-                        <tr>
-                          <th>ID</th>
-                          <th>Tên</th>
-                          <th>Số điện thoại</th>
-                          <th>Email</th>
-                          <th>Facebook URL</th>
-                          <th>ID giải đấu</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr>
-                          <td>#01</td>
-                          <td>Nguyễn Văn A</td>
-                          <td>0123456789</td>
-                          <td>vanA@gmail.com </td>
-                          <td>https://www.facebook.com</td>
-                          <td>#abc</td>
-                        </tr>
-                        <tr>
-                          <td>#02</td>
-                          <td>Nguyễn Văn A</td>
-                          <td>0123456789</td>
-                          <td>vanA@gmail.com </td>
-                          <td>https://www.facebook.com</td>
-                          <td>#cdf</td>
-                        </tr>
-                        <tr>
-                          <td>#03</td>
-                          <td>Nguyễn Văn A</td>
-                          <td>0123456789</td>
-                          <td>vanA@gmail.com </td>
-                          <td>https://www.facebook.com</td>
-                          <td>#fwc</td>
-                        </tr>
-                        <tr>
-                          <td>#04</td>
-                          <td>Nguyễn Văn A</td>
-                          <td>0123456789</td>
-                          <td>vanA@gmail.com </td>
-                          <td>https://www.facebook.com</td>
-                          <td>#hsp</td>
-                        </tr>
-                      </tbody>
+                    <table id="recent-purchases-listing" class="table table__client">
+                      <thead></thead>
+                      <tbody></tbody>
                     </table>
                   </div>
                 </div>
@@ -162,51 +114,9 @@
                 <div class="card-body">
                   <p class="card-title">Danh sách người cho thuê</p>
                   <div class="table-responsive">
-                    <table id="recent-purchases-listing" class="table">
-                      <thead>
-                        <tr>
-                          <th>ID</th>
-                          <th>Tên</th>
-                          <th>Số điện thoại</th>
-                          <th>Email</th>
-                          <th>Facebook URL</th>
-                          <th>ID người thuê</th>
-                        </tr>
-                      </thead>
-                      <tbody>
-                        <tr>
-                          <td>#01</td>
-                          <td>Nguyễn Văn A</td>
-                          <td>0123456789</td>
-                          <td>vanA@gmail.com </td>
-                          <td>https://www.facebook.com</td>
-                          <td>#abc</td>
-                        </tr>
-                        <tr>
-                          <td>#02</td>
-                          <td>Nguyễn Văn A</td>
-                          <td>0123456789</td>
-                          <td>vanA@gmail.com </td>
-                          <td>https://www.facebook.com</td>
-                          <td>#cdf</td>
-                        </tr>
-                        <tr>
-                          <td>#03</td>
-                          <td>Nguyễn Văn A</td>
-                          <td>0123456789</td>
-                          <td>vanA@gmail.com </td>
-                          <td>https://www.facebook.com</td>
-                          <td>#fwc</td>
-                        </tr>
-                        <tr>
-                          <td>#04</td>
-                          <td>Nguyễn Văn A</td>
-                          <td>0123456789</td>
-                          <td>vanA@gmail.com </td>
-                          <td>https://www.facebook.com</td>
-                          <td>#hsp</td>
-                        </tr>
-                      </tbody>
+                    <table id="recent-purchases-listing" class="table table__owner">
+                      <thead></thead>
+                      <tbody></tbody>
                     </table>
                   </div>
                 </div>
@@ -219,7 +129,7 @@
                 <div class="card-body">
                   <p class="card-title">Danh sách đen</p>
                   <div class="table-responsive">
-                    <table id="recent-purchases-listing" class="table">
+                    <table id="recent-purchases-listing" class="table table__black-list">
                       <thead>
                         <tr>
                           <th>ID người thuê</th>
@@ -340,6 +250,10 @@
     <!-- page-body-wrapper ends -->
   </div>
   <!-- container-scroller -->
+
+  <script src="../../js/listAccOwner.js"></script>
+  <script src="../../js/listAccClient.js"></script>
+
   <!-- plugins:js -->
   <script src="../../vendors/base/vendor.bundle.base.js"></script>
   <!-- endinject -->
